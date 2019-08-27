@@ -51,7 +51,7 @@ int main(int argc, const char *argv[])
     //std::cin>>descriptorType;
 
     //outdata.open("DET_TYPE:"+detectorType+"DES_TYPE:"+descriptorType+"_execution_time.txt");
-    //outdata<<"Image_No\t"<<"keypoint_size\t"<<"neigh_size\t"<<"neigh_size_min\t"<<"neigh_size_max\t"<<"neigh_size_mean\t"<<"neigh_size_std\n";
+    //outdata<<"Image_No\t"<<"keypoint_size\t"<<"neigh_size_min\t"<<"neigh_size_max\t"<<"neigh_size_mean\t"<<"neigh_size_std\n";
     //outdata<<"Image_No\t"<<"det_time\t"<<"des_time\n";
     /* MAIN LOOP OVER ALL IMAGES */
 
